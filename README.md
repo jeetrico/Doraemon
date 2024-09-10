@@ -1,6 +1,7 @@
 # Doraemon Drawing using Python Turtle Graphics
 
 This project uses Python's Turtle Graphics to draw a character that resembles **Doraemon**, the popular cartoon character.
+![Screenshot 2024-09-10 205905](https://github.com/user-attachments/assets/5caf2157-ff66-4a4c-bf6a-41adae82f9e4)
 
 ## Features
 
